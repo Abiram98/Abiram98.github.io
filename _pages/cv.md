@@ -67,7 +67,6 @@ Computer scientist and PhD candidate with research experience in machine learnin
 ## Selected projects
 
 - [PlanRGCN and PlanRGCN+]({{ base_path }}/projects/planrgcn/) — graph neural networks for SPARQL query performance prediction and operational workload control.
-- [Concurrency-Aware Query Prediction]({{ base_path }}/projects/concurrency-aware-query-prediction/) — LSTM-based prediction and scheduling mechanisms that account for concurrent query interference.
 - [Smart SPARQL Advisor]({{ base_path }}/projects/smart-sparql-advisor/) — an interactive application combining prediction, database query analysis, and LLM-guided suggestions.
 
 ## Contact
